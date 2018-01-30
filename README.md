@@ -1,6 +1,6 @@
 # StarEvaluate
-##电商类五星好评实现Damo
-###效果图
+## 电商类五星好评实现Damo
+### 效果图
 ![没有评价](http://upload-images.jianshu.io/upload_images/3873966-5fb3c73b8eb04582.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ![五星好评](http://upload-images.jianshu.io/upload_images/3873966-b26e74a734e0bdda.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
@@ -10,7 +10,7 @@
 
 如果需要的话，请移步我的[仓库](https://github.com/KingComeFromChina/StarEvaluate.git)clone下来后直接把<code>StarEvaluateView</code>拖入工程里就可以使用了
 
-###Clone
+### Clone
 `
 git clone https://github.com/KingComeFromChina/StarEvaluate.git
 `
