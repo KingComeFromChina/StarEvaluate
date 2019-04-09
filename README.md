@@ -1,5 +1,5 @@
 # StarEvaluate
-## 电商类五星好评实现Damo
+## 电商类五星好评实现Demo
 ### 效果图
 ![没有评价](http://upload-images.jianshu.io/upload_images/3873966-5fb3c73b8eb04582.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
